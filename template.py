@@ -31,6 +31,7 @@ list_of_files = [
     'main.py',
     'Dockerfile',
     'requirements.txt',
+    'templates/index.html',
     'setup.py',
     'research/trials.ipynb',
 ]
